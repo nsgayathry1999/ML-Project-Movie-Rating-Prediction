@@ -153,21 +153,5 @@ Testing was done on unseen test data.
 * Joblib
 * Jupyter Notebook
 
----
-
-## ⭐ How to Run the Project
-
-```
-pip install -r requirements.txt
-python train.py
-```
-
----
-
-## 📬 Contact
-
-For queries or suggestions:
-**Gayathri**
-📧 Email: *your email here*
-💼 GitHub: *your GitHub link here
+--
 
